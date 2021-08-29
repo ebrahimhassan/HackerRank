@@ -1,0 +1,5 @@
+D:\Digital Colors\HackerRank\Simple Array Sum\Simple Array Sum\Simple Array Sum\bin\Debug\Simple Array Sum.exe
+D:\Digital Colors\HackerRank\Simple Array Sum\Simple Array Sum\Simple Array Sum\bin\Debug\Simple Array Sum.pdb
+D:\Digital Colors\HackerRank\Simple Array Sum\Simple Array Sum\Simple Array Sum\obj\Debug\Simple Array Sum.csprojResolveAssemblyReference.cache
+D:\Digital Colors\HackerRank\Simple Array Sum\Simple Array Sum\Simple Array Sum\obj\Debug\Simple Array Sum.exe
+D:\Digital Colors\HackerRank\Simple Array Sum\Simple Array Sum\Simple Array Sum\obj\Debug\Simple Array Sum.pdb
